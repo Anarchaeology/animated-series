@@ -76,6 +76,21 @@ No video is included: [SOURCES.md](SOURCES.md) says where Funcom's original file
 
 ## Thanks
 
+- **The people at Funcom who made the series**, as the episodes credit them on screen:
+  - **Visual production unit:** Christian Morgan Enger, Hans Jørgen Kjærnet, Øyvind Jernskau, Kjetil Hjeldnes,
+    Christer Sveen and Tom Tømmervåg Gjerde, the animators. By Ragnar Tørnquist's account, the artists, animators
+    and audio staff made [almost an hour of CGI in two months](https://anarchaeology.github.io/forums/thread/8205.html#post384370), and the animation team
+    worked [16–18-hour days, plus weekends](https://anarchaeology.github.io/forums/thread/39274.html#post573038), to get the four episodes out.
+  - **Series created by** Ragnar Tørnquist and Didrik Tollefsen. **Original concept** Gaute Godager and Ragnar
+    Tørnquist.
+  - **Art director** Didrik Tollefsen. **Producer** Tore Blystad. **Audio director** Bjørn Arve Lagim. **Sound unit**
+    Tor Linløkken and Morten Sørlie. **Flash trailers** Thomas Sundfær. **Casting** Elin Mosnesset.
+  - **Starring** Paige Price (Eleena Oak), Todd Crain (Joshua Kahn), Alex Kroll (Philip Ross) and David Smyrl
+    (Henry Radiman).
+  - Funcom's episode pages add: written by Ragnar Tørnquist (103–104 with Aaron de Orive); directed by Tørnquist,
+    Tollefsen and Blystad (103–104 also de Orive); Tercio Bretas (the Stranger), Stacey Leigh Ivey (Eva Pourais) and
+    Chris Armond in the cast; Vebjørn Strømmen in 101's art and animation; the illustrated scripts by Dag Scheve; and
+    story contributions from Gaute Godager, Thomas Howalt, Sverre Kvernmo and Jarl Schjerverud.
 - **Timba**, for the [Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive
   ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and the contents of Funcom's FTP server, where the
   best surviving copies of the episodes are. Thanks too to **Yumehime**, credited in Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2) for the FTP's contents.

@@ -50,6 +50,9 @@ The forum archive has the 2001 launch forum up to 27 Sep 2001, and Funcom's main
 - [Ok, it's official. No more animated series :(](https://anarchaeology.github.io/forums/thread/5535.html)
   (28 Dec 2001) points to the news on Ragnar Tørnquist's own site.
 - [Save the animated series petition](https://anarchaeology.github.io/forums/thread/15871.html) (15 Mar 2002).
+- [Ragnar's Story where has it gone ?](https://anarchaeology.github.io/forums/thread/8205.html) (9 Apr 2002). Tørnquist
+  [says](https://anarchaeology.github.io/forums/thread/8205.html#post384370) he had little to do with the series' success, and credits the artists, animators
+  and audio staff, who made "almost one hour of top-quality CGI in two months".
 - [I miss the animated series!](https://anarchaeology.github.io/forums/thread/39274.html) (19 Jul 2002). Ragnar
   Tørnquist, the series' writer and co-director, [answers](https://anarchaeology.github.io/forums/thread/39274.html#post573038)
   why it stopped. The episodes had plenty of viewers. But 10–15 minutes every two weeks was beyond the team's means:
