@@ -78,6 +78,15 @@ episode came out, and players reacted in character and out:
 - [New plot twist, NOT a'okay...](https://anarchaeology.github.io/forums/thread/7678.html) (18 Jan 2002): a player
   group objects to a bombing storyline three months after 11 September.
 
+Players' screenshots of the ruins in the game, from the [Anarchaeology gallery](https://anarchaeology.github.io/)
+(dated by when each was put online):
+
+- [scrn0014.png](https://anarchaeology.github.io/#97e8439fdb), from ravndal.dk, online by 3 Mar 2002
+- [santaleet3.jpg](https://anarchaeology.github.io/#05cbd44dad), from fixergrid.com, online by 8 Jul 2002. The chat is about Santa Leet,
+  who first came at Christmas 2001, so it was taken then, days after the bombing
+- [scrn0016.png](https://anarchaeology.github.io/#fc1701e974), from del707's pages on nildram.co.uk, online by 10 Jul 2002; Santa Leet again, so also Christmas 2001
+- [Bomb.JPG](https://anarchaeology.github.io/#9cef4d5b84), from ao-basher.com, online by 23 Jul 2002
+
 ## Snarf on Radiman's desk
 
 Snarf was a real player: an Atrox Nano-Technician, leader of The Shadows of Rubi-Ka, who
