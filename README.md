@@ -26,8 +26,10 @@ just sharpen. It redraws every frame at the new size, which is why the result lo
 and also why it gets things wrong: it misspelled words, turned a distant truck into a rock, drew faces on the backs of
 heads.
 
-So every shot was reviewed by eye against the original, and everything that came out wrong was fixed, one by one:
-**114 fixes**, each one tried, compared and approved. The exact settings and steps are in [METHOD.md](METHOD.md).
+So every shot was reviewed by eye against the original, and the AI's mistakes were fixed one by one wherever a fix
+looked better than leaving them: **114 fixes**, each one tried, compared and approved. Some were left as Starlight
+drew them, on purpose ([the list](DECISIONS.md#left-as-starlight-on-purpose)), and there are surely a few the review
+missed. The exact settings and steps are in [METHOD.md](METHOD.md).
 
 Before any of that, several models were tested on clips from the series. The one that won, Starlight *Precise*, is
 the one Topaz itself says isn't meant for footage this small ([what was tried](METHOD.md#choosing-the-model)).

@@ -6,7 +6,7 @@
 2. **Enlarge them with an AI video model.** Topaz Labs' *Starlight*, in the program Topaz Video, redrew every frame at
    four times the size.
 3. **Review every shot by eye** against the original.
-4. **Fix what the AI got wrong, by hand.** For example, words it misspelled, faces it drew on the backs of heads, wall
+4. **Fix what the AI got wrong, by hand**, wherever a fix looked better than leaving it. For example, words it misspelled, faces it drew on the backs of heads, wall
    showing through hair. A few changes go further than that, where the original itself had a flaw; those are listed
    separately in [DECISIONS.md](DECISIONS.md).
 5. **Join everything** with the original, untouched sound, check every frame, and encode the YouTube file.
