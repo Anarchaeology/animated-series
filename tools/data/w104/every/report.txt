@@ -1,0 +1,105 @@
+[RH held] 16 aoe104b_preview (frames 5891-5945).mov 5891-5945: 55 frames; changed outside the area in 15 frames; detail kept 0.45-0.91 of Starlight (median 0.56) in 55 frames; flicker in the area 0.78 vs Starlight 1.35
+[RH held]   flagged: 5905: detail 0.85 of Starlight
+[RH held]   5906: detail 0.86 of Starlight
+[RH held]   5907: detail 0.88 of Starlight
+[RH held]   5908: detail 0.89 of Starlight
+[RH held]   5909: detail 0.91 of Starlight
+[RH held]   5910: detail 0.91 of Starlight
+[RH held]   5911: detail 0.86 of Starlight
+[RH held]   5922: 2 px changed outside (largest change outside 26)
+[RH held]   5923: 2 px changed outside (largest change outside 22)
+[RH held]   5924: 1 px changed outside (largest change outside 22)
+[RH held]   5925: 5 px changed outside (largest change outside 54)
+[RH held]   5926: 4 px changed outside (largest change outside 55)
+[RH held]   5927: 4 px changed outside (largest change outside 50)
+[RH held]   5928: 3 px changed outside (largest change outside 48)
+[RH held]   5929: 3 px changed outside (largest change outside 41)
+[RH held]   5930: 3 px changed outside (largest change outside 41)
+[RH held]   5931: 2 px changed outside (largest change outside 37)
+[RH held]   5932: 3 px changed outside (largest change outside 30)
+[RH held]   5933: 2 px changed outside (largest change outside 26)
+[RH held]   5934: 2 px changed outside (largest change outside 22)
+[RH held]   5935: 2 px changed outside (largest change outside 19)
+[RH held]   5944: 2 px changed outside (largest change outside 21)
+[RH later] 16 aoe104b_preview (frames 5891-5945).mov 5891-5945: 55 frames; changed outside the area in 8 frames; detail kept 0.50-1.12 of Starlight (median 0.67) in 55 frames; flicker in the area 0.88 vs Starlight 1.35
+[RH later]   flagged: 5891: detail 0.99 of Starlight
+[RH later]   5892: detail 0.97 of Starlight
+[RH later]   5893: detail 0.97 of Starlight
+[RH later]   5894: detail 0.98 of Starlight
+[RH later]   5895: detail 0.98 of Starlight
+[RH later]   5896: detail 1.00 of Starlight
+[RH later]   5897: detail 0.99 of Starlight
+[RH later]   5898: detail 1.00 of Starlight
+[RH later]   5899: detail 1.00 of Starlight
+[RH later]   5900: detail 1.02 of Starlight
+[RH later]   5901: detail 1.00 of Starlight
+[RH later]   5902: detail 1.01 of Starlight
+[RH later]   5903: detail 1.02 of Starlight
+[RH later]   5904: detail 1.04 of Starlight
+[RH later]   5905: detail 1.06 of Starlight
+[RH later]   5906: detail 1.06 of Starlight
+[RH later]   5907: detail 1.06 of Starlight
+[RH later]   5908: detail 1.09 of Starlight
+[RH later]   5909: detail 1.11 of Starlight
+[RH later]   5910: detail 1.12 of Starlight
+[RH later]   5911: detail 1.05 of Starlight
+[RH later]   5912: detail 0.96 of Starlight
+[RH later]   5913: detail 0.89 of Starlight
+[RH later]   5915: 2 px changed outside (largest change outside 22)
+[RH later]   5923: 1 px changed outside (largest change outside 22)
+[RH later]   5924: 1 px changed outside (largest change outside 19)
+[RH later]   5925: 1 px changed outside (largest change outside 22)
+[RH later]   5926: 1 px changed outside (largest change outside 16)
+[RH later]   5943: 3 px changed outside (largest change outside 18)
+[RH later]   5944: 15 px changed outside (largest change outside 38)
+[RH later]   5945: 7 px changed outside (largest change outside 25)
+[G1] 16 aoe104b_preview (frames 2058-2207).mov 2058-2207: 150 frames; changed outside the area in 0 frames; flicker in the area 2.29 vs Starlight 2.29
+[G1]   flagged: none
+[G2] 16 aoe104b_preview (frames 2304-2390).mov 2304-2390: 87 frames; changed outside the area in 0 frames; flicker in the area 2.48 vs Starlight 2.52
+[G2]   flagged: none
+[G3] 16 aoe104b_preview (frames 6552-6743).mov 6552-6743: 192 frames; changed outside the area in 0 frames; flicker in the area 2.44 vs Starlight 2.48
+[G3]   flagged: none
+[G4] 16 aoe104b_preview (frames 6920-7383).mov 6920-7383: 464 frames; changed outside the area in 0 frames; flicker in the area 3.36 vs Starlight 3.43
+[G4]   flagged: none
+[teeth paste] 16 aoe104b_preview (frames 1244-1384).mov 1244-1384: 141 frames; changed outside the area in 0 frames; flicker in the area 4.90 vs Starlight 4.79
+[teeth paste]   flagged: none
+[teeth paste] 16 aoe104b_preview (frames 6930-7000).mov 6930-7000: 71 frames; changed outside the area in 1 frames; flicker in the area 8.31 vs Starlight 8.33
+[teeth paste]   flagged: 6968: 1 px changed outside (largest change outside 28)
+[teeth close] 16 aoe104b_preview (frames 1244-1384).mov 1244-1384: 141 frames; changed outside the area in 0 frames; flicker in the area 4.78 vs Starlight 4.79
+[teeth close]   flagged: none
+[teeth close] 16 aoe104b_preview (frames 6930-7000).mov 6930-7000: 71 frames; changed outside the area in 0 frames; flicker in the area 8.29 vs Starlight 8.33
+[teeth close]   flagged: none
+[teeth shade] 16 aoe104b_preview (frames 1244-1384).mov 1244-1384: 141 frames; changed outside the area in 0 frames; flicker in the area 4.74 vs Starlight 4.79
+[teeth shade]   flagged: none
+[teeth shade] 16 aoe104b_preview (frames 6930-7000).mov 6930-7000: 71 frames; changed outside the area in 1 frames; flicker in the area 7.95 vs Starlight 8.33
+[teeth shade]   flagged: 6968: 1 px changed outside (largest change outside 35)
+[teeth paste152] 16 aoe104b_preview (frames 1244-1384).mov 1244-1384: 141 frames; changed outside the area in 0 frames; flicker in the area 4.91 vs Starlight 4.79
+[teeth paste152]   flagged: none
+[teeth paste152] 16 aoe104b_preview (frames 6930-7000).mov 6930-7000: 71 frames; changed outside the area in 0 frames; flicker in the area 8.50 vs Starlight 8.33
+[teeth paste152]   flagged: none
+[teeth paste110] 16 aoe104b_preview (frames 1244-1384).mov 1244-1384: 141 frames; changed outside the area in 0 frames; flicker in the area 4.95 vs Starlight 4.79
+[teeth paste110]   flagged: 1308: flicker 1.94 vs 1.44
+[teeth paste110]   1310: flicker 1.98 vs 1.43
+[teeth paste110] 16 aoe104b_preview (frames 6930-7000).mov 6930-7000: 71 frames; changed outside the area in 1 frames; flicker in the area 8.76 vs Starlight 8.33
+[teeth paste110]   flagged: 6968: 1 px changed outside (largest change outside 27)
+[S1] 16 aoe104b_preview (frames 3900-4076).mov 3925-4076: 152 frames; changed outside the area in 0 frames; detail kept 0.33-0.42 of Starlight (median 0.39) in 152 frames; flicker in the area 1.43 vs Starlight 2.66
+[S1]   flagged: 3928: flicker 2.08 vs 1.46
+[D1 blur3] 18 aoe104d_preview (frames 1470-1700).mov 1496-1690: 195 frames; changed outside the area in 0 frames; detail kept 0.36-0.67 of Starlight (median 0.39) in 195 frames; flicker in the area 1.95 vs Starlight 2.18
+[D1 blur3]   flagged: none
+[D1 blur5] 18 aoe104d_preview (frames 1470-1700).mov 1496-1690: 195 frames; changed outside the area in 0 frames; detail kept 0.33-0.65 of Starlight (median 0.36) in 195 frames; flicker in the area 1.94 vs Starlight 2.18
+[D1 blur5]   flagged: none
+[H1] 18 aoe104d_preview (frames 1630-2014).mov 1630-2014: 385 frames; changed outside the area in 14 frames; detail kept 0.24-0.53 of Starlight (median 0.45) in 380 frames; flicker in the area 3.60 vs Starlight 5.47
+[H1]   flagged: 1743: 1 px changed outside (largest change outside 16)
+[H1]   1764: 1 px changed outside (largest change outside 16)
+[H1]   1772: 1 px changed outside (largest change outside 16)
+[H1]   1781: 1 px changed outside (largest change outside 17)
+[H1]   1844: 1 px changed outside (largest change outside 16)
+[H1]   1864: 1 px changed outside (largest change outside 16)
+[H1]   1867: 1 px changed outside (largest change outside 17)
+[H1]   1884: 2 px changed outside (largest change outside 17)
+[H1]   1887: 2 px changed outside (largest change outside 17)
+[H1]   1889: 2 px changed outside (largest change outside 16)
+[H1]   1892: 1 px changed outside (largest change outside 16)
+[H1]   1949: 1 px changed outside (largest change outside 16)
+[H1]   1954: 1 px changed outside (largest change outside 16)
+[H1]   2013: 1 px changed outside (largest change outside 18)

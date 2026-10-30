@@ -1,0 +1,24 @@
+6007: Starlight logo minus ours  dx -1.3  dy +0.4
+6022: Starlight logo minus ours  dx +1.7  dy +1.9
+6037: Starlight logo minus ours  dx -2.2  dy +1.5
+6052: Starlight logo minus ours  dx -0.9  dy +0.7
+6067: Starlight logo minus ours  dx -2.0  dy +0.2
+6082: Starlight logo minus ours  dx -0.1  dy +0.8
+6097: Starlight logo minus ours  dx -0.7  dy +0.7
+6112: Starlight logo minus ours  dx -2.3  dy -0.2
+6127: Starlight logo minus ours  dx -0.4  dy +0.2
+6142: Starlight logo minus ours  dx -0.5  dy -0.2
+6157: Starlight logo minus ours  dx -0.0  dy +0.1
+6172: Starlight logo minus ours  dx -1.9  dy -0.1
+6187: Starlight logo minus ours  dx -0.3  dy +0.2
+6202: Starlight logo minus ours  dx -2.0  dy +0.9
+6217: Starlight logo minus ours  dx -2.9  dy -0.5
+6232: Starlight logo minus ours  dx -1.5  dy -0.1
+6247: Starlight logo minus ours  dx -1.5  dy -0.1
+6262: Starlight logo minus ours  dx -1.7  dy -0.2
+6277: Starlight logo minus ours  dx -3.3  dy -0.4
+6292: Starlight logo minus ours  dx -0.9  dy -0.3
+6307: Starlight logo minus ours  dx -2.9  dy -0.6
+6322: Starlight logo minus ours  dx -2.1  dy -0.7
+6337: Starlight logo minus ours  dx -2.3  dy -0.5
+median dx -1.6 dy -0.1; first 40 frames dx -1.3 dy +1.4
