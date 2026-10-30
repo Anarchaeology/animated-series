@@ -2,8 +2,8 @@
 
 Funcom made *Anarchy Online: The Animated Series* in 2001, alongside the game's live story: four episodes, released
 online in 17 short parts from 31 October to 18 December 2001. The only copies left are Funcom's own release files, at
-352×240. The best of them, Funcom's MPEG files, survive thanks to [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google
-Drive, which saved the contents of Funcom's FTP server in 2016.
+352×240. The best of them, Funcom's MPEG files, came from [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google
+Drive, which has held a copy of Funcom's FTP server, fetched by Yumehime, since 2016.
 
 This is a restoration of all four episodes in 4K, made with an AI video model and then fixed by hand. The AI tools
 cost about $190: about $170 for Topaz's software and a month of its cloud credits, and $20 for a month of Claude Pro,
@@ -92,8 +92,8 @@ No video is included: [SOURCES.md](SOURCES.md) says where Funcom's original file
     Chris Armond in the cast; Vebjørn Strømmen in 101's art and animation; the illustrated scripts by Dag Scheve; and
     story contributions from Gaute Godager, Thomas Howalt, Sverre Kvernmo and Jarl Schjerverud.
 - **Timba**, for the [Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive
-  ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and the contents of Funcom's FTP server, where the
-  best surviving copies of the episodes are. Thanks too to **Yumehime**, credited with fetching the contents of Funcom's FTP servers in
+  ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and a copy of Funcom's FTP server, where we found
+  the best copies of the episodes. Thanks too to **Yumehime**, credited with fetching the contents of Funcom's FTP servers in
   [AO Vault's README](https://gitlab.com/AOvault/aovault#contributors), and thanked for them in Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2).
 - The Internet Archive's [Wayback Machine](https://web.archive.org/), which saved Funcom's episode pages and forums
   from 2001–2002.
