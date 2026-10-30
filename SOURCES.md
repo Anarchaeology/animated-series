@@ -125,8 +125,9 @@ part in several formats.
 
 - **What:** Funcom's MPEG release of all 17 parts, `aoe101a.mpg` … `aoe104d.mpg`, as Funcom's FTP held them. The
   largest and best of Funcom's formats; the others were Windows Media (high and low) and DivX.
-- **From:** a public Google Drive collection that copied Funcom's FTP in 2016, shared by Timba in a thread on
-  [Funcom's forum](https://forums.funcom.com/t/6653).
+- **From:** [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive, a public archive of concept art, game discs
+  and Funcom's files, introduced in [a thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653). It saved the contents of Funcom's FTP server in
+  July 2016 (with thanks to Yumehime, who provided them), the episodes among them.
 - **Checksums:** [log/originals.tsv](log/originals.tsv) (size and MD5 of each file).
 - **Whole:**
   - The sizes on Funcom's download pages for 101, 103 and 104 match these files, all 12 parts. 102's page repeats

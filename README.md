@@ -2,7 +2,8 @@
 
 Funcom made *Anarchy Online: The Animated Series* in 2001, alongside the game's live story: four episodes, released
 online in 17 short parts from 31 October to 18 December 2001. The only copies left are Funcom's own release files, at
-352×240.
+352×240. The best of them, Funcom's MPEG files, survive thanks to [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google
+Drive, which saved the contents of Funcom's FTP server in 2016.
 
 This is a restoration of all four episodes in 4K, made with an AI video model and then fixed by hand. This
 repository documents how it was done: the settings, the scripts, every fix, every decision, and how much of the result
@@ -67,6 +68,14 @@ scripts and ran the renders at that person's direction. The numbers, and how the
 
 No video is included: not Funcom's files, not the upscale, not the fixes' renders. The restored series is on YouTube,
 and [SOURCES.md](SOURCES.md) says where Funcom's original files can be found.
+
+## Thanks
+
+- **Timba**, for the [Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive
+  ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and the contents of Funcom's FTP server, where the
+  best surviving copies of the episodes are. Thanks too to **Yumehime**, who gave the collection the FTP's contents.
+- The Internet Archive's [Wayback Machine](https://web.archive.org/), which saved Funcom's episode pages and forums
+  from 2001–2002.
 
 ## About
 

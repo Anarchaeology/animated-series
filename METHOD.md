@@ -28,7 +28,7 @@ the work this repository documents.
 
 | | |
 |---|---|
-| Files | Funcom's MPEG release of all 17 parts, `aoe101a.mpg` … `aoe104d.mpg` (538 MB in all), as Funcom's FTP held them (copied from it in 2016 into a public collection). Their sizes match Funcom's download pages; all decode without an error |
+| Files | Funcom's MPEG release of all 17 parts, `aoe101a.mpg` … `aoe104d.mpg` (538 MB in all), as Funcom's FTP held them (saved from it in 2016 into Timba's public collection; see [SOURCES.md](SOURCES.md)). Their sizes match Funcom's download pages; all decode without an error |
 | Video | MPEG-1 (Video CD format), 352×240, 29.97 fps, 1,150 kb/s. Letterboxed: the picture is 352×188, with slightly narrow pixels (200:219), so it is about 1.71:1 when shown correctly |
 | Sound | MPEG audio layer II, stereo, 44.1 kHz, 192–224 kb/s |
 

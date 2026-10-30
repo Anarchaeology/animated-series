@@ -765,4 +765,4 @@ game discs on the Internet Archive, Dailymotion, Odysee, Funcom's YouTube channe
 - Ragnar Tørnquist's novel the story grew out of, *Prophet Without Honour* (Anarchy Online Book One):
   https://archive.org/details/prophetwithoutho00ragn
 - Timba's Drive also has Funcom's "Gridfeed" in-character news videos (2003), interviews (NBC GiGa, CNN, TechTV),
-  game trailers and concept art (linked from Timba's thread on Funcom's forum, https://forums.funcom.com/t/6653).
+  game trailers and concept art: https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw
