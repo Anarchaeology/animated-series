@@ -5,11 +5,12 @@ online in 17 short parts from 31 October to 18 December 2001. The only copies le
 352×240. The best of them, Funcom's MPEG files, survive thanks to [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google
 Drive, which saved the contents of Funcom's FTP server in 2016.
 
-This is a restoration of all four episodes in 4K, made with an AI video model and then fixed by hand. The AI video
-tools cost about $170 (Topaz's software, $69, and a month of its cloud credits, $99.99). The hand work took about 45
-hours of one person's time, over five days in October 2026 ([how that was counted](EFFORT.md#the-human-work)). This
-repository documents how it was done: the settings, the scripts, every fix, every decision, and how much of the result
-is the AI's work and how much is a person's.
+This is a restoration of all four episodes in 4K, made with an AI video model and then fixed by hand. The AI tools
+cost about $190: about $170 for Topaz's software and a month of its cloud credits, and $20 for Claude, the AI coding
+assistant that wrote the scripts (a month of Claude Pro; [the breakdown](EFFORT.md#the-machine-work)). The hand work took
+about 45 hours of one person's time, over five days in October 2026 ([how that was counted](EFFORT.md#the-human-work)).
+This repository documents how it was done: the settings, the scripts, every fix, every decision, and how much of the
+result is the AI's work and how much is a person's.
 
 **Watch it on YouTube:** *link to come*
 
