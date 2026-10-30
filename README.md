@@ -93,7 +93,8 @@ No video is included: [SOURCES.md](SOURCES.md) says where Funcom's original file
     story contributions from Gaute Godager, Thomas Howalt, Sverre Kvernmo and Jarl Schjerverud.
 - **Timba**, for the [Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive
   ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and the contents of Funcom's FTP server, where the
-  best surviving copies of the episodes are. Thanks too to **Yumehime**, credited in Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2) for the FTP's contents.
+  best surviving copies of the episodes are. Thanks too to **Yumehime**, credited with fetching the contents of Funcom's FTP servers in
+  [AO Vault's README](https://gitlab.com/AOvault/aovault#contributors), and thanked for them in Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2).
 - The Internet Archive's [Wayback Machine](https://web.archive.org/), which saved Funcom's episode pages and forums
   from 2001–2002.
 

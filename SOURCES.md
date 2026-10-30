@@ -139,7 +139,8 @@ part in several formats.
   largest and best of Funcom's formats; the others were Windows Media (high and low) and DivX.
 - **From:** [Timba's Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive, a public archive of concept art, game discs
   and Funcom's files, introduced in [a thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653). It saved the contents of Funcom's FTP server in
-  July 2016, the episodes among them; Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2) thanks Yumehime for them.
+  July 2016, the episodes among them. Timba's [changelog](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653/2) thanks Yumehime for them, and
+  [AO Vault's README](https://gitlab.com/AOvault/aovault#contributors) credits Yumehime with fetching them from Funcom's FTP servers.
 - **Checksums:** [log/originals.tsv](log/originals.tsv) (size and MD5 of each file).
 - **Whole:**
   - The sizes on Funcom's download pages for 101, 103 and 104 match these files, all 12 parts. 102's page repeats
@@ -155,8 +156,11 @@ All lower quality than Funcom's MPEG files.
 - Internet Archive: [episode-101-tricks-and-treats-part-3](https://archive.org/details/episode-101-tricks-and-treats-part-3),
   all 17 parts re-encoded as MP4, plus Funcom's preview of the opening titles, the illustrated scripts and a picture
   per episode.
+- AO Vault's archive of Anarchy Online on GitLab, [AOvault/aovault](https://gitlab.com/AOvault/aovault) (first committed 2 Jan 2025), under
+  `Funcom/Media/Videos/Animated Series`: the same 17 MP4s as the Internet Archive item, byte for byte, and the same
+  preview of the opening titles, scripts and pictures.
 - YouTube: the playlist [Anarchy Online Animated Series](https://www.youtube.com/playlist?list=PLSOc4MNxiyypjNES5pRDBig0GqZ1Z4yX5)
-  (uploaded 2015, 240p); "Kilmanagh" (2025, one video per episode, AI-enhanced to 966×720); "AOvault" (2018, 240p);
+  (uploaded 2015, 240p); "Kilmanagh" (2025, one video per episode, AI-enhanced to 966×720); "AOvault" (2018, 210p–264p);
   and others.
 - The Anarchy Online Special Edition Bonus CD (May 2002) has the high-quality Windows Media versions.
 - G4's *Portal* (2002), episode "More Anarchy Online", shows clips.
