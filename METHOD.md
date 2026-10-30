@@ -52,7 +52,7 @@ the work this repository documents.
 | Scale | 4×, to 1284×752 with square pixels |
 | Every other enhancement | off: frame interpolation, stabilization, grain, focus fix, motion deblur, denoise, SDR-to-HDR |
 | Where | Topaz's cloud (the local graphics card, an RTX 2070 Super with 8 GB, can't run Starlight) |
-| Cost | about 1,550 Topaz cloud credits for the series |
+| Cost | about 1,550 Topaz cloud credits for the series, from a month of Topaz's cloud credits ($99.99); the Topaz software itself was $69 |
 | Output | ProRes 422 HQ, BT.709 colour |
 
 Chosen from tests on four 10-second clips from Episode 104 (a face close-up, a dark bar, the chess scene, the opening
