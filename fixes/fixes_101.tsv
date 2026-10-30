@@ -2,12 +2,12 @@ id	part	first	last	kind	spec	note
 U1	01 aoe101a	2008	2191	ellipse	2008:1315,471,100,70;2191:770,515,100,70|rampin=15|rampout=15	distant hover truck read as a rock (path from the tracked glow in testing)
 U2	02 aoe101b	516	577	ellipse	516:222,525,105,100	wide office shot: the round object left of centre became a stand with letters
 L01	02 aoe101b	854	892	swap	src=logo-L01	shirt logo after the hitch at frame 854 (before it Starlight is fine): correct logo composited from L12 (logo_composite.js), red text soft; lined up on Starlight's logo (--align=centroid)
-# L02 as approved on 27 Oct (composite 1122-1205, handing over to Starlight at the ends), replaced by L02m below on 29 Oct. To go back: remove the # from the L02 row and delete L02m.
+# L02 as approved on 27 Oct (composite 1122-1205, handing over to Starlight at the ends), replaced by L02m below on 29 Oct. To go back: remove the # from the L02 row and delete L02m.						
 #L02	02 aoe101b	1122	1205	swap	src=logo-L02	shirt logo as she turns to face the camera and away again (composite only where the original shows the logo); lined up on Starlight's logo (--align=centroid)
 L04	02 aoe101b	1473	1612	swap	src=logo-L04	shirt logo, pumpkin crowd behind her, into the fade to black; lined up on Starlight's logo (--align)
 L07	02 aoe101b	5303	5424	swap	src=logo-L07	shirt logo, fight on the truck roof, low angle; lined up on Starlight's logo (--align)
 L08	02 aoe101b	5477	5562	swap	src=logo-L08	shirt logo, fight; her fist passes in front (composite only where the original shows the logo); lined up on Starlight's logo (--align)
-# L10 as approved on 27 Oct, replaced by L10m below on 29 Oct (it pulsed, and Starlight's capital B peeked out). To go back: remove the # from the L10 row and delete L10m.
+# L10 as approved on 27 Oct, replaced by L10m below on 29 Oct (it pulsed, and Starlight's capital B peeked out). To go back: remove the # from the L10 row and delete L10m.						
 #L10	02 aoe101b	6007	6407	swap	src=logo-L10	shirt logo, small, standing on the truck roof (shape locked from frames 6110-6330); lined up on Starlight's logo (--align --alignblur=4 --alignsmooth=30: slow, so it holds still)
 U4a	02 aoe101b	1850	2292	ellipse	1850:456,445,110,230	far hologram looks like a different person
 U4b	02 aoe101b	2342	2520	ellipse	2342:665,440,140,340;2430:672,440,140,340	far hologram (after the focus pull from the chess pieces)
@@ -16,7 +16,7 @@ U4d	02 aoe101b	4177	4429	ellipse	4177:670,440,140,340	far hologram
 U4e	03 aoe101c-1	832	991	ellipse	832:448,445,110,230	far hologram
 U4f	03 aoe101c-1	2065	2145	ellipse	2065:270,335,105,200	far hologram
 U4g	03 aoe101c-1	3224	3765	ellipse	3224:270,345,105,200	far hologram
-# U5 as approved on 27 Oct ran 3945-4195; from 29 Oct it starts at 4143, where U18's held frame hands back to the shot (before that its moving blur would drift over the still). To go back: restore 3945 and remove U18.
+# U5 as approved on 27 Oct ran 3945-4195; from 29 Oct it starts at 4143, where U18's held frame hands back to the shot (before that its moving blur would drift over the still). To go back: restore 3945 and remove U18.						
 #U5	03 aoe101c-1	3945	4195	ellipse	3945:410,455,60,75;4050:420,470,60,80;4150:452,465,65,85;4195:455,465,65,85|src=soft1.5grain	Ross small at his desk: Starlight makes a different face, Proteus draws a lit building; Starlight blurred (sigma 1.5) with the original's grain
 U5	03 aoe101c-1	4143	4195	ellipse	3945:410,455,60,75;4050:420,470,60,80;4150:452,465,65,85;4195:455,465,65,85|src=soft1.5grain	Ross small at his desk: Starlight makes a different face, Proteus draws a lit building; Starlight blurred (sigma 1.5) with the original's grain
 U6	04 aoe101c-2	1551	1921	key	top=1.9|down=3.0|src=orig	shirt: red text under the logo wonky (Proteus too); use the plain enlargement for the text only
@@ -31,7 +31,7 @@ U13b	05 aoe101d	2219	2252	ellipse	2219:1020,360,22,32|src=robothold	robot: the f
 U14a	02 aoe101b	2293	2341	swap	src=edgefix	hologram close-up: a light line down the left edge (in the original; Starlight makes it a bright and a dark column), outer 3 columns mirrored from inside
 U14b	02 aoe101b	2521	2779	swap	src=edgefix	hologram close-up: light line down the left edge, as U14a
 U14c	02 aoe101b	3827	4176	swap	src=edgefix	hologram close-up: light line down the left edge, as U14a
-# U15 and U15b (Proteus over Ross's reflected face, approved 27 Oct) taken out on 29 Oct: plain Starlight is better (your call). To go back: remove the # from both rows.
+# U15 and U15b (Proteus over Ross's reflected face, approved 27 Oct) taken out on 29 Oct: plain Starlight is better (your call). To go back: remove the # from both rows.						
 #U15	02 aoe101b	231	515	ellipse	231:536,280,300,420;340:540,280,300,420;400:541,298,300,420;515:552,322,290,400|rampin=30	Ross's face reflected in the window: Starlight's stubble flickers from frame to frame in the fog; Proteus (your pick: the reflection is meant to look unclear). Starts after the glitch frame 230 (U12)
 #U15b	02 aoe101b	578	710	ellipse	578:550,330,290,400|rampout=25	Ross's reflection, second shot (after the wide shot of him at the desk): Proteus, fading out with the dissolve to the pumpkin man
 L02m	02 aoe101b	1110	1210	swap	src=logo-L02-mesh	shirt logo as she turns to face the camera and away again, carried along a tracked mesh (SAM 2 + CoTracker3) through the whole turn (your pick, 29 Oct)
