@@ -55,11 +55,28 @@ the work this repository documents.
 | Cost | about 1,550 Topaz cloud credits for the series, from a month of Topaz's cloud credits ($99.99); the Topaz software itself was $69 |
 | Output | ProRes 422 HQ, BT.709 colour |
 
-Chosen from tests on four 10-second clips from Episode 104 (a face close-up, a dark bar, the chess scene, the opening
-titles) and 70 seconds of Episode 101. Sharpness 3 looked crunchier. The faster *Starlight Mini* looked worse than
-Topaz's older *Proteus* model. Precise invents plausible surface detail (weathering on a vehicle's hull, for
-example), which was judged acceptable. Topaz's *Astra* web app, which takes a text prompt, was also tried on one shot
-and rejected: it drew a ship, but not the one the shot shows.
+### Choosing the model
+
+On paper, Precise was the wrong choice. Topaz recommends *Starlight Mini* for older, low-quality and
+standard-definition video, and describes *Precise 2.6* as tuned for realistic faces on medium- to high-quality
+sources, "not ideal for content below 480p". This picture is 188 lines tall. So the models were tested on the footage
+itself: four 10-second clips from Episode 104 (Eleena in close-up, a dark scene in the bar, the chess scene, the
+opening titles), then 70 seconds of Episode 101, compared side by side with the original, both playing and paused.
+
+| Tried | What it is | Result |
+|---|---|---|
+| Proteus 4, auto | Topaz's older, non-generative model: it cleans up what is there and invents little | Faithful, but soft. Kept as a source for spot fixes |
+| Starlight Mini | Topaz's lighter generative model, the one it recommends for old, low-resolution video | Hazy and mushy here, barely better than Proteus. Dropped |
+| Starlight Precise 2.6, sharpness 3 (Topaz's default) | Topaz's newest Starlight model (August 2026), at its sharpest | Crunchy edges, over-sharpened hair, heavier invented texture. Dropped |
+| **Starlight Precise 2.6, sharpness 1** | The same model, at its lightest touch | A big jump in detail, with the faces still clearly the same characters and the titles intact. It does invent surface detail: weathering on a ship's hull, "text" on a panel that is a dark blur in the original. Judged acceptable. **Chosen** |
+| Astra 2, creative mode | Topaz's web app, steered by a text prompt | Tried only on the distant truck that Starlight turned into a rock: it drew a ship, but not the one the shot pans to. Dropped |
+
+Considered but not tested: free upscalers such as Video2X with Real-ESRGAN (made mostly for drawn anime, not 3D CG),
+Topaz's Iris and Gaia 2, and the other Starlight variants (Sharp; HQ, made for better sources; Fast 2, made for
+speed). None of the Starlight models runs on the local graphics card, so every Starlight test cost cloud credits.
+
+Rendering at Starlight's own 4× size also kept the cost down: about 30 credits a minute, against about 90 at 1080p and
+150 at 4K. The step from there to 4K was a plain enlargement at the end, since Starlight's own detail stops at 4×.
 
 ## 4. Review
 
@@ -93,7 +110,7 @@ from:
   sample.
 - **The series master**: all four episodes in Funcom's order, with the end credits of 101–103 cut at the fade to black
   before them, so the credits come once, after 104.
-- **The YouTube file**: the series master enlarged to 3688×2160 (its own 1.71:1 shape at 2160 lines), x264 `slow`
+- **The YouTube file**: the series master enlarged (Lanczos) to 3688×2160 (its own 1.71:1 shape at 2160 lines), x264 `slow`
   CRF 10, 4:2:0, BT.709, the PCM sound, 17 chapters; 21.8 GB at about 60 Mb/s. Checked: the sound is sample for
   sample the master's; the picture matches the master enlarged to 4K at 53 dB. 4K is only for YouTube: its 4K tier
   gets far more bitrate at every resolution it streams.

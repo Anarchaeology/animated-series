@@ -6,8 +6,8 @@ online in 17 short parts from 31 October to 18 December 2001. The only copies le
 Drive, which saved the contents of Funcom's FTP server in 2016.
 
 This is a restoration of all four episodes in 4K, made with an AI video model and then fixed by hand. The AI tools
-cost about $190: about $170 for Topaz's software and a month of its cloud credits, and $20 for Claude, the AI coding
-assistant that wrote the scripts (a month of Claude Pro; [the breakdown](EFFORT.md#the-machine-work)). The hand work took
+cost about $190: about $170 for Topaz's software and a month of its cloud credits, and $20 for a month of Claude Pro,
+the AI coding assistant that wrote the scripts ([breakdown here](EFFORT.md#the-machine-work)). The hand work took
 about 45 hours of one person's time, over five days in October 2026 ([how that was counted](EFFORT.md#the-human-work)).
 This repository documents how it was done: the settings, the scripts, every fix, every decision, and how much of the
 result is the AI's work and how much is a person's.
@@ -28,6 +28,9 @@ heads.
 
 So every shot was reviewed by eye against the original, and everything that came out wrong was fixed, one by one:
 **114 fixes**, each one tried, compared and approved. The exact settings and steps are in [METHOD.md](METHOD.md).
+
+Before any of that, several models were tested on clips from the series. The one that won, Starlight *Precise*, is
+the one Topaz itself says isn't meant for footage this small ([what was tried](METHOD.md#choosing-the-model)).
 
 ![A truck in Episode 101 that the AI turned into a rock with two figures on it, and the restored truck](stills/truck_101.jpg)
 
@@ -69,8 +72,7 @@ scripts and ran the renders at that person's direction. The numbers, and how the
 | [log/](log/) | The working log of the whole restoration, the review notes, and checksums of Funcom's files |
 | [stills/](stills/) | The before-and-after comparisons |
 
-No video is included: not Funcom's files, not the upscale, not the fixes' renders. The restored series is on YouTube,
-and [SOURCES.md](SOURCES.md) says where Funcom's original files can be found.
+No video is included: [SOURCES.md](SOURCES.md) says where Funcom's original files can be found.
 
 ## Thanks
 
