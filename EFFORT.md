@@ -52,7 +52,8 @@ running unattended; it doesn't include watching the review clips outside the ses
 | Upscale | Topaz Video, Starlight Precise 2.6, in Topaz's cloud: about 1,550 cloud credits ([METHOD.md](METHOD.md)) |
 | What Topaz cost | about $170: the Topaz software ($69) and a month of its cloud credits ($99.99) |
 | What Claude cost | $20: a month of Claude Pro |
-| Spot-fix sources | Topaz Proteus 4, Meta SAM 2.1 and CoTracker3, run locally on an RTX 2070 Super |
+| Spot-fix sources | Topaz Proteus 4, run locally on an RTX 2070 Super. The other fixes draw on the original, plainly enlarged, or on Starlight itself: blurred, held still, or taken from a frame where it got the detail right |
+| Masks and tracking | Meta's SAM 2.1 (outlines an object and follows it from frame to frame) and CoTracker3 (follows points through a shot), also run locally. They decide where a fix goes and how it moves; they draw no pixels |
 | Scripts | 66 scripts, about 5,200 lines (Node.js and Python), written for this project by Claude |
 | Checks | Every master checks every frame and every sound sample against its parts; every fixed part was compared with Starlight frame by frame to make sure fixes changed only what they were meant to |
 
