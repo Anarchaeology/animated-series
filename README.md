@@ -12,7 +12,7 @@ about 45 hours of one person's time, over five days in October 2026 ([how that w
 This repository documents how it was done: the settings, the scripts, every fix, every decision, and how much of the
 result is the AI's work and how much is a person's.
 
-**Watch it on YouTube:** *link to come*
+**Watch it on YouTube:** [all four episodes, restored in 4K](https://www.youtube.com/watch?v=fbWhNT7Bz5k)
 
 ![Eleena's BABOONS shirt in Episode 104: blurry in Funcom's file, misspelled by the AI, and the restored word](stills/baboons_104.jpg)
 

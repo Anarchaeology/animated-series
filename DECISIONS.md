@@ -1,6 +1,6 @@
 # Decisions
 
-Every change made to Starlight's picture, and why. Times are in the YouTube video of the whole series.
+Every change made to Starlight's picture, and why. Times are in the [YouTube video](https://www.youtube.com/watch?v=fbWhNT7Bz5k) of the whole series.
 
 There are 114 fixes, in three kinds:
 
