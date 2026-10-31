@@ -91,8 +91,8 @@ No video is included: [SOURCES.md](SOURCES.md) says where Funcom's original file
     (Henry Radiman).
   - Funcom's episode pages add: written by Ragnar Tørnquist (103–104 with Aaron de Orive); directed by Tørnquist,
     Tollefsen and Blystad (103–104 also de Orive); Tercio Bretas (the Stranger), Stacey Leigh Ivey (Eva Pourais) and
-    Chris Armond in the cast; Vebjørn Strømmen in 101's art and animation; the illustrated scripts by Dag Scheve; and
-    story contributions from Gaute Godager, Thomas Howalt, Sverre Kvernmo and Jarl Schjerverud.
+    Chris Armond in the cast; Vebjørn Strømmen in 101's art and animation; the illustrated scripts of 102–104 by
+    Dag Scheve; and story contributions from Gaute Godager, Thomas Howalt, Sverre Kvernmo and Jarl Schjerverud.
 - **Timba**, for the [Anarchy Online collection](https://drive.google.com/drive/folders/0BxuVjelTHvdWRFQ1eE1WQmNkYXc?resourcekey=0-_ioV-8mB3r1TwCgzzbNinw) on Google Drive
   ([its thread on Funcom's forum](https://forums.funcom.com/t/anarchy-online-concept-art-collection-looking-for-more-missing-items/6653)): concept art, game discs, and a copy of Funcom's FTP server, where we found
   the best copies of the episodes. Thanks too to **Yumehime**, credited with fetching the contents of Funcom's FTP servers in
